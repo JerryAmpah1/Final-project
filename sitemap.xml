@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://JerryAmpah1.github.io/Final-project/page1.html</loc>
-    <lastmod>2026-04-27T19:58:34.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://JerryAmpah1.github.io/Final-project/about.html</loc>
-    <lastmod>2026-04-27T19:58:34.514Z</lastmod>
-  </url>
-  <url>
     <loc>https://JerryAmpah1.github.io/Final-project/index.html</loc>
-    <lastmod>2026-04-27T19:58:34.517Z</lastmod>
+    <lastmod>2026-04-27T20:04:58.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JerryAmpah1.github.io/Final-project/page1.html</loc>
+    <lastmod>2026-04-27T20:04:58.319Z</lastmod>
   </url>
   <url>
     <loc>https://JerryAmpah1.github.io/Final-project/page2.html</loc>
-    <lastmod>2026-04-27T19:58:34.575Z</lastmod>
+    <lastmod>2026-04-27T20:04:58.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://JerryAmpah1.github.io/Final-project/about.html</loc>
+    <lastmod>2026-04-27T20:04:58.237Z</lastmod>
   </url>
 </urlset>
