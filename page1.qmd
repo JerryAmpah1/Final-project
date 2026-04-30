@@ -1,5 +1,5 @@
 ---
-title: "###Electrification"
+title: "Electrification"
 ---
 
 About 30% of people in Sub-Saharan Africa have access to grid electricity, the lowest of any major region in the world. Sub-Saharan Africans consume only one fifth the grid electricity of the global average of grid electricity.
@@ -7,3 +7,4 @@ About 30% of people in Sub-Saharan Africa have access to grid electricity, the l
 People who do not have it must rely on expensive diesel generators, kerosene lamps, candles, or firewood. Without electricity, one cannot use electric appliances, which are the foundation of both large and small-scale modern industry.
 
 ![](images/482226751_1551596086230861_2868759782351830626_n.jpg)
+

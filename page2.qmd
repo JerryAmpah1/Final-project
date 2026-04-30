@@ -1,4 +1,31 @@
 ---
 title: "colonial Ideas"
 ---
+
+
 This is analysis of African ideas on streets
+
+## This is a header
+
+This is a table showing electricity distribution in Africa
+
+```{r}
+library(rnaturalearth)
+library(tidyverse)
+#plot(ne_countries(continent = "Africa"))
+
+africa <- ne_countries(continent = "Africa")
+electricity <- read_csv("International Energy Agency - Total electricity production, Africa.csv")
+africa <- africa |> 
+  select(sov_a3, name_long)
+
+africa_electricity <- left_join(africa, electricity, by = join_by("sov_a3" =="ISO3")) |>
+  filter(!is.na(Electricity))
+
+ggplot(data = africa_electricity) +
+  geom_sf(aes(fill=Electricity)) +
+  theme_minimal()
+
+
+```
+

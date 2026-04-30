@@ -2,6 +2,9 @@ project:
   type: website
 execute: 
   freeze: auto
+  echo: false
+  message: false
+  warning: false
 
 website:
   title: "Electricity"
