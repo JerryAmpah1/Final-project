@@ -1,11 +1,8 @@
 ---
-title: "colonial Ideas"
+title: "Distribution"
 ---
 
-
-This is analysis of African ideas on streets
-
-## This is a header
+## Electricity Distribution Across Africa
 
 This is a table showing electricity distribution in Africa
 
