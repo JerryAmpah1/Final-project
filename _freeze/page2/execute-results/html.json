@@ -1,8 +1,8 @@
 {
-  "hash": "053fc045ce34c0dcbdefa04b90e7051e",
+  "hash": "bc12c46249ba25914e0ff27134ca748c",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"colonial Ideas\"\n---\n\n\nThis is analysis of African ideas on streets\n\n## This is a header\n\nThis is a table showing electricity distribution in Africa\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](page2_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n",
+    "markdown": "---\ntitle: \"Distribution\"\n---\n\n## Electricity Distribution Across Africa\n\nAbout 30% of people in Sub-Saharan Africa have access to grid electricity, the lowest of any major region in the world. Sub-Saharan Africans consume only one fifth the grid electricity of the global average of grid electricity.\n\nPeople who do not have it must rely on expensive diesel generators, kerosene lamps, candles, or firewood. Without electricity, one cannot use electric appliances, which are the foundation of both large and small-scale modern industry.\n\nThis is a table showing electricity distribution in Africa\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](page2_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n",
     "supporting": [
       "page2_files"
     ],
