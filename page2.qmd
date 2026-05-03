@@ -2,6 +2,10 @@
 title: "Distribution"
 ---
 
+The performance of Africa's power supply sector on the continent is woefully unsatisfactory. Most of the continent's power companies are unreliable sources of supply, inefficient users of generating capacity, deficient in maintenance, erratic in the procurement of spare parts, and unable to staunch losses in transmission and distribution. They also have failed to provide adequate electricity services to the majority of the region's population, especially to rural communities, the urban poor, and small and medium enterprises.
+
+A video on *Electriciy Is Holding Africa Back* [documentation](https://www.youtube.com/watch?v=OO_o6qNelM4}.")
+
 
 ### Electricity Distribution Across Africa
 
@@ -35,5 +39,6 @@ ggplot(data = africa_electricity) +
   theme_minimal()
 
 ```
+
 
 
