@@ -8,6 +8,8 @@ About 30% of people in Sub-Saharan Africa have access to grid electricity, the l
 
 People who do not have it must rely on expensive diesel generators, kerosene lamps, candles, or firewood. Without electricity, one cannot use electric appliances, which are the foundation of both large and small-scale modern industry.
 
+
+
 This is a table showing electricity distribution in Africa
 
 ```{r}
