@@ -1,8 +1,8 @@
 {
-  "hash": "f65329cb2dc668fd18b9bccbad056752",
+  "hash": "15a6cafe3d31bf4c697e15537b24f1cc",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Distribution\"\n---\n\n## Electricity Distribution Across Africa\n\nAbout 30% of people in Sub-Saharan Africa have access to grid electricity, the lowest of any major region in the world. Sub-Saharan Africans consume only one fifth the grid electricity of the global average of grid electricity.\n\nPeople who do not have it must rely on expensive diesel generators, kerosene lamps, candles, or firewood. Without electricity, one cannot use electric appliances, which are the foundation of both large and small-scale modern industry.\n\n\n\nThis is a table showing electricity distribution in Africa\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](page2_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n",
+    "markdown": "---\ntitle: \"Distribution\"\n---\n\n\n### Electricity Distribution Across Africa\n\nAbout 30% of people in Sub-Saharan Africa have access to grid electricity, the lowest of any major region in the world. Sub-Saharan Africans consume only one fifth the grid electricity of the global average of grid electricity.People who do not have it must rely on expensive diesel generators, kerosene lamps, candles, or firewood. Without electricity, one cannot use electric appliances, which are the foundation of both large and small-scale modern industry.\n\n\n\n#### This is a table showing electricity distribution in Africa\n\n\n::: {.cell}\n\n:::\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](page2_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n\n",
     "supporting": [
       "page2_files"
     ],
