@@ -1,5 +1,36 @@
 ---
 title: "About"
 ---
-Analyzing the Electricity Supply in Africa
+
+
+## Reference
+
+
+Gore, Christopher D. Electricity in Africa: The Politics of Transformation in Uganda. Boydell & Brewer, 2017.
+
+Hart, David. Volta River Project: A Case Study in Politics and Technology. Edinburgh University Press, 1977.
+
+Hughes, Thomas Parke. Networks of Power: Electrification in Western Society, 1880-1930. JHU Press, 1993.
+
+Isaacman, Allen F., and Barbara S. Isaacman. Dams, Displacement, and the Delusion of Development: Cahora Bassa and Its Legacies in Mozambique, 1965–2007. Ohio University Press, 2013.
+
+Julius Tischler, Light and Power for a Multiracial Nation: The Kariba Dam Scheme in the Central African Federation (Palgrave MacMillan, 2013), 1., n.d.
+
+Marwah, Hannah. “Electricity Access: Inequality in Sub-Saharan Africa, 1950-2000.” African Economic History Volume 45, no. Number 2 (2017): 113–44.
+
+McDonald, David A. “Electric Capitalism: Conceptualizing Electricity and Capital Accumulation in (South) Africa.” In Electric Capitalism: Recolonizing Africa on the Power Grid. HSRC Press, 2012.
+
+McDonald, David A. Electric Capitalism: Recolonising Africa on the Power Grid. Taylor & Francis, 2012.
+
+Miescher, Stephan F. A Dam for Africa: Akosombo Stories from Ghana. Indiana University Press, 2022.
+
+Renfrew, Christie. Electricity, Industry and Class in South Africa. State University of New York Press, 1984.
+
+Showers, Kate B. “Electrifying Africa: an environmental history with policy implications.” Geografiska Annaler Series B Human Geography 93, no. 3 (n.d.): 193–221. https://doi.org/10.1111/j.1468-0467.2011.00373.x.
+
+Steel, Robert W. “‘The Volta Dam: Its Prospects and Problems.’” In Dams in Africa, edited by Neville Rubin and Warren William M, 1st ed., 63–75. Routledge, 1968.
+
+Wilson, Gail. Owen Falls: Electricity in a Developing Country. [Nairobi] : East African Publishing House, 1967.
+
+
 
