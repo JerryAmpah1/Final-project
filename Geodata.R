@@ -18,5 +18,5 @@ ggplot(data = africa_electricity) +
 
 
 ggplot(data = africa_electricity) +
-  geom_density(mapping = aes(y=sov_a3, x= Electricity))
+  geom_col(mapping = aes(y=sov_a3, x= Electricity))
   
