@@ -15,8 +15,10 @@ plot(africa_electricity)
 
 ggplot(data = africa_electricity) +
   geom_sf(aes(fill=Electricity))
+  scale_color_distiller(1)
 
 
 ggplot(data = africa_electricity) +
   geom_col(mapping = aes(y=sov_a3, x= Electricity))
-  
+
+
