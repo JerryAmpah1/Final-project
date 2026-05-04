@@ -15,10 +15,6 @@ About 30% of people in Sub-Saharan Africa have access to grid electricity, the l
 
 #### This is a table showing electricity distribution in Africa
 
-```{r}
-
-
-```
 
 
 ```{r}
@@ -34,10 +30,22 @@ africa <- africa |>
 africa_electricity <- left_join(africa, electricity, by = join_by("sov_a3" =="ISO3")) |>
   filter(!is.na(Electricity))
 
+
+ggplot(data = africa_electricity) +
+  geom_col(mapping = aes(y=sov_a3, x= Electricity))
+
+```
+
+
+
+##### This Map shows electricity consumptions in 2023
+
+```{r}
 ggplot(data = africa_electricity) +
   geom_sf(aes(fill=Electricity)) +
-  theme_minimal()
-
+  theme_minimal() +
+   scale_colour_viridis_d()
+  
 ```
 
 
