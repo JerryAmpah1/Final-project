@@ -38,6 +38,7 @@ ggplot(data = africa_electricity) +
 
 
 
+
 ##### This Map shows electricity consumptions in 2023
 
 ```{r}
