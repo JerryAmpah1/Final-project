@@ -2,6 +2,9 @@
 title: "About"
 ---
 
+This website analyzes colonial electricity supply in colonial Ghana and the decisions of the colonial state to prioritize different locations in the supply of electricity
+
+
 
 ## Reference
 
